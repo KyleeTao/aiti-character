@@ -1,0 +1,18 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 设计源文件（如后续加入）
+*.psd
+*.ai
+*.clip
+*.procreate
+
+# 临时文件
+*.tmp
+*~
+_*
+
+# 预览/中间产物
+*.log
